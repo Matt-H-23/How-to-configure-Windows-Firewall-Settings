@@ -9,3 +9,6 @@
 - And Simply name it **Block ICMPv4** and hit **Finish**
 ![Loom Screenshot 2025-06-06 at 08 58 40](https://github.com/user-attachments/assets/8ae6b862-472c-4a09-a8c7-8749cc3326c9)
 ### Congrats You've Configured Your First(Basic) AD Server, Now let's See It In Action!!
+
+## Demo Video
+[Firewall config video](https://www.loom.com/share/0ccebea9d8b94d6c816a7934ee133fa1?sid=43d3af55-7b4e-4849-aa28-82fd7ad95505)
