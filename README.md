@@ -1,4 +1,4 @@
-# How-to-configure-Windows-Firewall-Settings
+# How-to-configure-Windows-Firewall-Settings 🏠
 -This lab illustrates a basic **Firewall Configuration Setting** for an AD Server
 ### Step 1: Configuring Windows FireWall Settings
 **What's an AD Server, without protecting it, let's look at how to configure firewall settings for the AD Domain Controller** (Basic)
