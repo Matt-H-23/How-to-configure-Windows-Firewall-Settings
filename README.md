@@ -15,3 +15,7 @@
 
 ## Demo Video🎥
 [Firewall config video](https://www.loom.com/share/0ccebea9d8b94d6c816a7934ee133fa1?sid=43d3af55-7b4e-4849-aa28-82fd7ad95505)
+
+
+# Don't Forget!!
+- In order for these policy changes to take effect, you need to remember to open **Command Prompt** and run the **gpupdate /force** command to enforce the new **Active Directory** policy changes.
